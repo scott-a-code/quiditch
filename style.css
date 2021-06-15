@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-image:url('src/image1.gif');
 }
 
 h1{
@@ -17,4 +17,9 @@ p{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border:aqua
+}
+#wrapper{
+    justify-content: center;
+    margin: auto;
+    display: block;
 }
