@@ -22,4 +22,7 @@ p{
     justify-content: center;
     margin: auto;
     display: block;
+    background: cornflowerblue 10%;
+    max-width: 700px;
+    height: 100%;
 }
